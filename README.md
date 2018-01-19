@@ -1,20 +1,16 @@
-# <img src="https://raw.githubusercontent.com/InkProtocol/press-kit/master/images/logo.png" height="60">
-
 ## Ink Protocol Logo
 
 ### Logo
-
-![alt text](https://raw.githubusercontent.com/InkProtocol/press-kit/master/images/logo.png)
+![Ink Protocol Logo](https://raw.githubusercontent.com/InkProtocol/press-kit/master/images/logo.png | width=300)
 
 ### Nib
-
-![alt text](https://raw.githubusercontent.com/InkProtocol/press-kit/master/images/nib.png)
+![Ink Protocol Nib](https://raw.githubusercontent.com/InkProtocol/press-kit/master/images/nib.png | width=300)
 
 ### Font
-- "ink": Ping fang HK/TC/SC (medium)
+- "ink": Ping Fang HK/TC/SC (medium)
 - "PROTOCOL": Ping Fang HK/TC/SC (semibold)
 
-### Text Colors
+### Text Color
 - #333333
 
 ### Nib Colors
@@ -23,9 +19,10 @@
 - #1E3C64
 - #142846
 
-## Ink Protocol Color Palette
+## Ink Protocol Brand Colors
 
-![alt text](https://raw.githubusercontent.com/InkProtocol/press-kit/master/images/palette.png)
+### Palette
+![Ink Protocol Palette](https://raw.githubusercontent.com/InkProtocol/press-kit/master/images/palette.png | width=300)
 - #333333
 - #1E3C64
 - #2D4B69
