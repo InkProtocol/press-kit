@@ -1,10 +1,10 @@
 ## Ink Protocol Logo
 
 ### Logo
-![Ink Protocol Logo](https://raw.githubusercontent.com/InkProtocol/press-kit/master/images/logo.png | width=300)
+![Ink Protocol Logo](https://raw.githubusercontent.com/InkProtocol/press-kit/master/images/logo.png)
 
 ### Nib
-![Ink Protocol Nib](https://raw.githubusercontent.com/InkProtocol/press-kit/master/images/nib.png | width=300)
+![Ink Protocol Nib](https://raw.githubusercontent.com/InkProtocol/press-kit/master/images/nib.png)
 
 ### Font
 - "ink": Ping Fang HK/TC/SC (medium)
@@ -22,7 +22,7 @@
 ## Ink Protocol Brand Colors
 
 ### Palette
-![Ink Protocol Palette](https://raw.githubusercontent.com/InkProtocol/press-kit/master/images/palette.png | width=300)
+![Ink Protocol Palette](https://raw.githubusercontent.com/InkProtocol/press-kit/master/images/palette.png)
 - #333333
 - #1E3C64
 - #2D4B69
