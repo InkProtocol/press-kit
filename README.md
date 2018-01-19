@@ -23,6 +23,7 @@
 
 ### Palette
 <p align="center"><img src="https://raw.githubusercontent.com/InkProtocol/press-kit/master/images/palette.png" width="500"></p>
+
 - ![#333333](https://placehold.it/15/333333/000000?text=+) `#333333`
 - ![#1E3C64](https://placehold.it/15/1E3C64/000000?text=+) `#1E3C64`
 - ![#2D4B69](https://placehold.it/15/2D4B69/000000?text=+) `#2D4B69`
